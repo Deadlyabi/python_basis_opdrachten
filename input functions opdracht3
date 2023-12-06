@@ -1,0 +1,7 @@
+input_steden = input("Voer minimaal 5 steden in")
+
+steden = [stad.strip() for stad in input_steden.split('.')]
+
+gesorteerde_steden = sorted(steden, key=lambda x: x[::-1])
+
+print(gesorteerde_steden)

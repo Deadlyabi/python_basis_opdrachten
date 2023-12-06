@@ -1,0 +1,10 @@
+Wat is je voornaam?: ufuk
+Wat is je achternaam?: demirel
+Wat neem je mee aan drank?: cola
+Wat neem je mee om te eten?: chips
+
+Wat is je voornaam?: joost
+Wat is je achternaam?: demirel
+Wat neem je mee aan drank?: fanta
+Wat neem je mee om te eten?: popcorn
+
